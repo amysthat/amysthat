@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+Fancy seeing you here. I'm amysthat. I'm a wannabe gamedev, and I use the Unity game engine. You will usually find my projects being written in C#, as it is the language I'm most familiar with.
+
+Don't mind my name, it frequently changes.
+
+ - 🔭 I'm currently learning Unity's insides, namely the editor.
+ - 💾 However I'm also interesting in operating systems, how they work etc.
+ - 💻 I sometimes work on my own OS powered by [Cosmos](https://github.com/CosmosOS/Cosmos).
+ - And a building to more!
+
 
 <!--
 **amysthat/amysthat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
