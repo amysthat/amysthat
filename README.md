@@ -7,7 +7,7 @@ Don't mind my name, it frequently changes.
  - 🔭 I'm currently learning Unity's insides, particularly the editor.
  - 💾 However, I'm also interested in operating systems and how they work, etc.
  - 💻 I sometimes work on my own OS powered by [Cosmos](https://github.com/CosmosOS/Cosmos).
- - And a building to more!
+ - And building up to more!
 
 
 <!--
